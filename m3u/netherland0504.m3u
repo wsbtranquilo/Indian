@@ -1,6 +1,7 @@
 #Extm3u
+
 #EXTINF:-1,NL: FOX Sport 1
-http://x-media.mine.nu:58080/live/tunisiasat5/satlover.com/474.ts
+rtmp://x-media.mine.nu:58080/live/tunisiasat5/satlover.com/474.ts
 #EXTINF:-1,NL: FOX Sport 2
 http://x-media.mine.nu:58080/live/tunisiasat5/satlover.com/475.ts
 #EXTINF:-1,NL: FOX Sport 3
